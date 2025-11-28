@@ -1,4 +1,6 @@
 Practice
+GoodGood
+
 Good
 
 # 1. 현재 브랜치 확인
