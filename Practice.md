@@ -3,6 +3,10 @@ GoodGood
 
 Good
 
+Perfect
+
+
+
 # 1. 현재 브랜치 확인
 git branch
 
